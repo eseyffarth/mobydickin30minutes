@@ -1,2 +1,2 @@
-# mobydickin30minutes
-Zine für die Session "As fast as possible: Moby Dick in 30 Minuten" auf der re:publica 2019, von Kathrin Passig und Esther Seyffarth
+# As fast as possible: Moby Dick in 30 Minuten
+Zine und Präsentation für die Session [As fast as possible: Moby Dick in 30 Minuten](https://19.re-publica.com/de/sideevent/b-fast-possible-moby-dick-30-minuten) auf der re:publica 2019, von [Kathrin Passig](http://kathrin.passig.de/) und [Esther Seyffarth](https://user.phil.hhu.de/~seyffarth).
